@@ -1,5 +1,5 @@
 # DoubleMassSpringDamper_NonLinearControlDemo
-This repo contains simulink (Simscape Multibody) models of MIMO systems where adaptive and robust control laws are demonstrated. Derivation of control laws are also provided in folder named controlLawDerivations
+This repo contains Simulink (Simscape Multibody) models of MIMO systems where adaptive and robust control laws are demonstrated. Derivation of control laws are also provided in folder named controlLawDerivations
 
 ## Robust Control
 Open the Simulink Model titled doubleMassSpringDamper_SlidingRobustControl.slx
